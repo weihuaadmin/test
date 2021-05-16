@@ -1,3 +1,3 @@
-# test/package
+# package
 
 Laravel package

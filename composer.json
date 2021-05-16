@@ -1,5 +1,5 @@
 {
-    "name": "test/package",
+    "name": "La/test/package",
     "description": "Laravel package",
     "license": "MIT",
     "type": "library",
